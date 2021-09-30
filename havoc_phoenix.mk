@@ -19,8 +19,3 @@ PRODUCT_DEVICE := phoenix
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi K30
 PRODUCT_MANUFACTURER := Xiaomi
-
-# havoc specific props
-HAVOC_BUILD_TYPE := Official
-HAVOC_MAINTAINER := Blacksuan19
-HAVOC_GROUP_URL := https://t.me/havoc_phoenix

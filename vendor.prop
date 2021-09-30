@@ -222,5 +222,8 @@ persist.vendor.ims.disableQXDMLogs=1
 # Wi-Fi
 wifi.aware.interface=wifi-aware0
 
-# maintainer
-ro.havoc.maintainer=Blacksuan19
+# havoc stuff
+ro.havoc.device.name=Poco X2
+ro.havoc.maintainer=Abubakar Yagoub
+ro.havoc.maintainer.username=Blacksuan19
+ro.havoc.group.url=https://t.me/havoc_phoenix
