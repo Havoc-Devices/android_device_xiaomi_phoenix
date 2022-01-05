@@ -16,6 +16,6 @@ $(call inherit-product, vendor/havoc/config/common_full_phone.mk)
 
 PRODUCT_NAME := havoc_phoenix
 PRODUCT_DEVICE := phoenix
-PRODUCT_BRAND := Redmi
+PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi K30
 PRODUCT_MANUFACTURER := Xiaomi
